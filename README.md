@@ -5,7 +5,8 @@
 This project is a **Machine Learning-based Heart Disease Prediction System** developed using the **XGBoost Classifier** algorithm. The application predicts whether a patient is likely to have heart disease based on several medical attributes.
 
 The model is deployed using **Streamlit**, providing a simple and interactive web interface where users can enter patient information and receive an instant prediction.
-
+LINK OF HEART DISEASE APP.
+https://heart-disease-predictiongit-jsrvfkayey5c5kjdmtxr59.streamlit.app/
 ---
 
 ## 🚀 Features
